@@ -1,0 +1,4 @@
+PyMuPDF==1.23.8
+pyinstaller==6.3.0
+cx_Freeze==6.15.12
+Pillow==10.2.0 
